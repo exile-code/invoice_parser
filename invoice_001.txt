@@ -1,0 +1,5 @@
+Invoice #001
+Client: Acme Corporation
+Date: 2024-04-25
+Items: 3x T-shirt @ $10, 2x Jeans @ $50
+Total: $130
